@@ -1,0 +1,331 @@
+	/*influence on all pages*/
+
+.notifications{
+    padding: 3px;
+    height: 20px;
+    width: 80%;
+}
+.ui-block-a h2{
+    margin-top: -5%;
+    margin-left: 1%;
+    font-size: 17px;
+}
+.mainNav{
+    width: 90px;
+    float:left;
+    margin-bottom: 20px;
+    height: 100px;
+}    
+.mainNav2{
+    width: 100%;
+    height: 40px;
+    float:right;
+  
+}    
+.homeIcon{
+         height: 60px;
+        
+        margin-top: -40px;
+
+    }
+    .homeIcon p{
+        margin-top: -7px;
+    }
+ 
+
+    .button{
+        font-size: 20px;
+        }
+		
+
+    #search{
+            float: right;
+            margin-right: 10%;
+            margin-top: -2%;
+    }
+	
+		body {
+            font-family:sans-serif;
+			font-size: 9px;
+			margin-top: 1%;
+			margin-bottom; 1%;
+			padding: 6px;
+			width: 100%;
+        	}
+		
+    #navbar{
+          margin-top: 70px;  
+        }
+		#imgone,#imgtwo,#imgthree, #imgfour{
+				display: none;
+		}
+		
+		#title {
+			margin-top: 4%;
+			margin-bottom: 10px;
+			margin-left: -41%;
+			float:left;
+		
+		}
+		
+		
+  .comments{
+			margin-top: 50%;
+            height: 60%;
+		  
+		}
+
+        #textfield{
+            margin-top: 40%;
+        }
+        
+        #submitted{
+            height: 300px;
+}
+
+
+        .popup{
+            height: 70px;
+            margin-bottom: -45px;
+            position:inherit;
+            
+        }
+
+	/*end all pages */	
+	/*index or signing*/
+    #signIn {
+			
+			width: 300px;
+			padding: 20px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+
+		#submit {
+			width: 100px;
+			margin-top: 20px;
+			margin-bottom: 40px;
+			margin-left: 28%;
+			margin-right: auto;
+             width: 120px;
+  
+		}
+	
+		
+		.input{
+			width: 200px;
+			padding: 20px;
+			margin-bottom: 25px;
+		
+		}
+		
+		#input {
+			margin-left: auto;
+			margin-right: auto;
+			width: 243px;
+		}
+	
+    #one{
+        float:left;
+        position:absolute;
+        margin-top:-230px;
+        margin-left: -110px;
+    
+    }
+
+    #two{
+        float:left;
+        position:absolute;
+      margin-top:-228px;
+        margin-left: 250px;
+    
+    }
+
+    #three{
+        float:left;
+        position:absolute;
+       margin-top:-98px;
+        margin-left: 230px;
+
+    
+    }
+
+ #four{
+        float:left;
+        position:absolute;
+          margin-top:-138px;
+        margin-left:-90px;
+
+    
+    }
+ 
+
+    
+
+    /*end index or sign in*/
+		
+			
+	/*Home Page*/
+    .scroll{
+        overflow-y: scroll; 
+        height: 680px;
+}
+
+        a{
+            text-decoration: none;
+           text-decoration-color: white;
+                              
+        }
+
+        #flipcomment, #flipcritique{
+            height: 300px;
+            width: 500px;
+            font-size: 16px;
+                
+            }
+	
+        .ui-block-a, .ui-block-b, .ui-block-c{
+            float: left;
+            margin-left:-3px;
+        } 
+		
+		.ui-block-a li, .ui-block-b li, .ui-block-c li {
+            list-style-type: none;
+            height: 300px;
+            overflow:hidden;
+            position:relative;
+            margin-left: -30px;
+            margin-top: 6px;
+            border: solid white 1px;
+            
+            
+            }
+.adjustmentForSpark{
+            margin-top: -15px;
+            
+            
+            }
+        .ui-block-a h1,  .ui-block-b h1, .ui-block-c h1{
+            text-align:center;
+
+            }
+        
+    .addSpark{
+            margin-bottom: -45px;
+            position:inherit;
+         
+           
+            }
+   
+    .addSpark2{
+            margin-bottom: -45px;
+            position:inherit;
+            margin-left: -11%;
+            visibility:hidden;
+           
+            }
+       
+/*end Homepage */		
+/*mySparks*/	
+     #mySparksProjectsa,  #mySparksProjectsb,  #mySparksProjectsc {
+    float:left;
+    
+}
+
+		#mySparksProjectsa li, #mySparksProjectsb li, #mySparksProjectsc li {
+            list-style-type: none;
+            height: 200px;
+            overflow:hidden;
+            position:relative;
+            margin-left: -30px;
+            margin-top: 6px;
+            border: solid white 1px
+                
+            }
+
+
+
+        
+
+/*brainstorm*/	
+			
+    #bStorma, #bStormb{
+            width: 50%;
+        }
+	#bStorma li, #bStormb li {
+            list-style-type: none;
+            height: 200px;
+            width: 100%;
+            overflow:hidden;
+            margin-left: -30px;
+            margin-top: 6px;
+            padding: 2px;
+            border: solid white 1px;
+            overflow-y:scroll;
+                
+            }
+	#bStorma img, #bStormb img {
+            width:30%;
+            height: 200px;
+            floaT:left;
+            padding:2px;
+            
+} 
+
+.comments2{
+  margin-top: -5%;
+   width: 65%;
+    margin-left: 20%;
+    height: 100%;
+    
+}
+
+.comments2 h1{
+    margin-top:-5%;
+    float:left
+}
+
+.comments2 #textfield{
+     margin-top: -2%;
+    height: 60%;
+    width: 80%;
+    padding-left: 20%;
+    float:left;
+
+}
+
+
+.submitComment p{
+    margin-top: 15%;
+    font-size: 15px;
+}
+
+
+	
+/*end brainstorm*/	
+	
+/*project page*/
+#imgProject{
+    width: 40%;
+    height: 85%
+}
+
+#description{
+    
+    margin-top: -550px;
+    margin-left: 40%;
+    height: 500px;
+    width:40%;
+
+}
+#description #text{
+    height: 300px;
+   margin-top: 20%;
+    border:solid white 1px;
+    padding: 2px;
+
+}
+#description p{
+    padding-bottom:20px;
+}
